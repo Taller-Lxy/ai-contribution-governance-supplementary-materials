@@ -1,0 +1,9 @@
+outcome,family,spec,treated_x_post_coef,cluster_se,t_stat,p_value,stars,n,clusters,y_mean,treated_pre_mean,treated_post_mean,control_pre_mean,control_post_mean,ppml_pct_effect,convergence,variant,label
+body_ai_contribution_disclosure_binary,ols_lpm,event_fe_controls,0.060384,0.012850,4.6991,0.000007,***,44297,123,0.054022,0.045588,0.117080,0.042617,0.054401,,,all_labeled,AI disclosure
+body_verification_evidence_binary,ols_lpm,event_fe_controls,-0.013545,0.012393,-1.0930,0.276547,,44297,123,0.318509,0.314216,0.340548,0.293149,0.341738,,,all_labeled,Verification evidence
+body_ai_contribution_disclosure_binary,ols_lpm,event_fe_controls,0.062138,0.013087,4.7480,0.000006,***,43935,123,0.053966,0.045522,0.117973,0.042616,0.054127,,,exclude_needs_review,AI disclosure
+body_verification_evidence_binary,ols_lpm,event_fe_controls,-0.012285,0.012352,-0.9946,0.321883,,43935,123,0.319791,0.314696,0.343098,0.294336,0.342993,,,exclude_needs_review,Verification evidence
+body_ai_contribution_disclosure_binary,ols_lpm,event_fe_controls,0.061619,0.013058,4.7188,0.000006,***,44114,123,0.054246,0.045802,0.118158,0.042799,0.054553,,,drop_unclear,AI disclosure
+body_verification_evidence_binary,ols_lpm,event_fe_controls,-0.013991,0.012442,-1.1245,0.263017,,44198,123,0.319223,0.315065,0.340992,0.293901,0.342418,,,drop_unclear,Verification evidence
+body_ai_contribution_disclosure_binary,ols_lpm,event_fe_controls,0.060639,0.012915,4.6951,0.000007,***,44139,123,0.054215,0.045779,0.117447,0.042806,0.054543,,,high_confidence,AI disclosure
+body_verification_evidence_binary,ols_lpm,event_fe_controls,-0.013771,0.012436,-1.1073,0.270348,,44139,123,0.319649,0.315530,0.341617,0.294451,0.342633,,,high_confidence,Verification evidence

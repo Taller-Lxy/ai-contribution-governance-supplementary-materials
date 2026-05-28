@@ -1,0 +1,7 @@
+outcome,family,spec,treated_x_post_coef,cluster_se,t_stat,p_value,stars,n,clusters,y_mean,treated_pre_mean,treated_post_mean,control_pre_mean,control_post_mean,ppml_pct_effect,convergence,label,subset
+body_ai_contribution_disclosure_binary,ols_lpm,event_fe,0.059854,0.013150,4.5517,0.000013,***,44297,123,0.054022,0.045588,0.117080,0.042617,0.054401,,,Coded explicit AI contribution disclosure,full
+body_verification_evidence_binary,ols_lpm,event_fe,-0.019186,0.014361,-1.3360,0.184044,,44297,123,0.318509,0.314216,0.340548,0.293149,0.341738,,,Coded verification evidence,full
+closed_without_merge,ols_lpm,event_fe,-0.013830,0.018110,-0.7637,0.446534,,24507,123,0.191782,0.224863,0.190204,0.198915,0.177362,,,PR closed without merge,pr
+body_ai_contribution_disclosure_binary,ols_lpm,event_fe_controls,0.060384,0.012850,4.6991,0.000007,***,44297,123,0.054022,0.045588,0.117080,0.042617,0.054401,,,Coded explicit AI contribution disclosure,full
+body_verification_evidence_binary,ols_lpm,event_fe_controls,-0.013545,0.012393,-1.0930,0.276547,,44297,123,0.318509,0.314216,0.340548,0.293149,0.341738,,,Coded verification evidence,full
+closed_without_merge,ols_lpm,event_fe_controls,-0.022235,0.016321,-1.3624,0.175591,,24507,123,0.191782,0.224863,0.190204,0.198915,0.177362,,,PR closed without merge,pr

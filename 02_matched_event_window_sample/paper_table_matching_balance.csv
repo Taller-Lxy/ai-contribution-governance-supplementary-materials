@@ -1,0 +1,10 @@
+﻿Variable,Treated mean,Control mean,SMD,|SMD|,Matched strata
+Exact match: language,,1.000,,,615
+Exact match: owner type,,1.000,,,615
+Exact match: star cell,,0.964,,,615
+Exact match: pr activity cell,,0.935,,,615
+Log stars,8.259,8.201,0.040,0.040,123
+Log pull requests total,7.011,6.892,0.081,0.081,123
+Log issues total,6.354,6.522,-0.105,0.105,123
+Log repository age,7.755,7.738,0.027,0.027,123
+Governance maturity score,4.742,4.432,0.198,0.198,31

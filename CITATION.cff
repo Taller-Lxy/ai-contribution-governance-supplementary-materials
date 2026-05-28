@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these supplementary materials, please cite the archived release."
+title: "Supplementary Materials for AI Contribution Governance Rules in Open Source Software: Effects on Information Visibility and Maintainer Comment Patterns"
+version: "1.0.0"
+date-released: "2026-05-28"
+type: dataset
+authors:
+  - family-names: Guo
+    given-names: Huitao
+    affiliation: "School of Economics and Management, Harbin Institute of Technology"
+repository-code: "https://github.com/Taller-Lxy/ai-contribution-governance-supplementary-materials"
+license: "CC-BY-4.0"
+keywords:
+  - open source software
+  - software engineering
+  - contribution governance
+  - maintainer work
+  - empirical software engineering

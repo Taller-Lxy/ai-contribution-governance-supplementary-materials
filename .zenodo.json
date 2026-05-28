@@ -1,0 +1,21 @@
+{
+  "title": "Supplementary Materials for AI Contribution Governance Rules in Open Source Software: Effects on Information Visibility and Maintainer Comment Patterns",
+  "upload_type": "dataset",
+  "description": "Supplementary materials for an empirical study of AI contribution governance rules in open source software. The archive includes rule-event evidence, adoption-date traces, matched control-event construction, an item-level analysis sample with raw text excluded, result tables, coding definitions, and reproduction code for the main event-window estimates.",
+  "creators": [
+    {
+      "name": "Guo, Huitao",
+      "affiliation": "School of Economics and Management, Harbin Institute of Technology"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "open source software",
+    "software engineering",
+    "contribution governance",
+    "maintainer work",
+    "empirical software engineering"
+  ],
+  "version": "1.0.0",
+  "language": "eng"
+}

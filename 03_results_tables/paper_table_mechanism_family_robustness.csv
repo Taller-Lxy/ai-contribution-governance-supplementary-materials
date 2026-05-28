@@ -1,0 +1,7 @@
+﻿Coding mode,Model,Treated x Post,p-value,N,Interpretation
+Primary-only,Count OLS,-0.1022** (0.0423),0.017,"29,539",Same negative direction
+Primary-only,Count PPML,-0.1998* (0.1103),0.072,"29,539",Same negative direction
+Primary-only,Any LPM,-0.0295** (0.0138),0.035,"29,539",Same negative direction
+Primary + secondary,Count OLS,-0.1121** (0.0476),0.020,"29,539",Same negative direction
+Primary + secondary,Count PPML,-0.1913* (0.1085),0.080,"29,539",Same negative direction
+Primary + secondary,Any LPM,-0.0343** (0.0143),0.018,"29,539",Same negative direction
